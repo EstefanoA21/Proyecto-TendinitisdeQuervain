@@ -1,0 +1,154 @@
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Quervainfinite.html" resolutions="1x" timestamp="1536878997361">
+  <folder name="css">
+    <file name="site_global.css" crc="4186145796"/>
+    <file name="semana-2.css" crc="4248268939" ref="semana-2"/>
+    <file name="index.css" crc="254504519" ref="index"/>
+    <file name="semana-1.css" crc="4168157510" ref="semana-1"/>
+    <file name="semana-3.css" crc="253815322" ref="semana-3"/>
+    <file name="semana-4.css" crc="70623121" ref="semana-4"/>
+  </folder>
+  <folder name="assets">
+    <file name="diagrama-de-gantt.pdf" crc="4251842997" seo="true" mt="1536124720000"/>
+    <file name="plan-de-trabajo.xlsx" crc="4287933332" seo="true" mt="1536158816000"/>
+    <file name="plan-de-trabajo.png" crc="412261842" seo="true" mt="1536709679000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:semana-1:semana-4:semana-2:semana-3"/>
+    <file name="museutils.js" crc="340535759" ref="index:semana-1:semana-4:semana-2:semana-3"/>
+    <file name="whatinput.js" crc="86476730" ref="index:semana-1:semana-4:semana-2:semana-3"/>
+    <file name="museconfig.js" crc="310584261" ref="index:semana-1:semana-4:semana-2:semana-3"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="index:semana-1:semana-4:semana-2:semana-3"/>
+    <file name="webpro.js" crc="4059564322" ref="index:semana-4:semana-2"/>
+    <file name="musewpslideshow.js" crc="3862962738" ref="index:semana-2"/>
+    <file name="jquery.museoverlay.js" crc="4147669564" ref="index:semana-2"/>
+    <file name="touchswipe.js" crc="4075097462" ref="index:semana-2"/>
+    <file name="jquery.musemenu.js" crc="510910590" ref="index"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index:semana-1:semana-4:semana-2:semana-3"/>
+    <file name="jquery.scrolleffects.js" crc="39568856" ref="index:semana-1:semana-4:semana-2:semana-3"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:semana-1:semana-4:semana-3"/>
+    <file name="require.js" crc="7928878" ref="index:semana-1:semana-4:semana-2:semana-3"/>
+    <file name="musewpdisclosure.js" crc="3883500470" ref="semana-4"/>
+  </folder>
+  <folder name="images">
+    <file name="cabecera-01.jpg" crc="492754019" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="cabecera-012.jpg" crc="492754019" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="cabecera-02.jpg" crc="524066571" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="cabecera-03.jpg" crc="4287590828" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="flecha-izquierda.png" crc="3975364059" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="flecha-derecha.png" crc="152649081" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="infinite - horizontal.png" crc="148556543" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="equipo-aldo.jpg" crc="255870372" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="equipo-dylan.jpg" crc="344276706" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="equipo-katherin.jpg" crc="4060076347" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="equipo-estefano.jpg" crc="78757229" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="equipo-diego.jpg" crc="4232450990" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="brochure.jpg" crc="4178546232" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="grafico.png" crc="412497843" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="web.png" crc="329871790" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="app.png" crc="484025998" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="quienes-somos.png" crc="336959440" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="que-hacemos.png" crc="482448688" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="infinite con letra (png).png" crc="4011096262" ref="index:semana-1:semana-4:semana-2:semana-3">
+      <caption webpage="index" alt=""/>
+      <caption webpage="semana-1" alt=""/>
+      <caption webpage="semana-2" alt=""/>
+      <caption webpage="semana-3" alt=""/>
+      <caption webpage="semana-4" alt=""/>
+    </file>
+    <file name="graficotendinitis.jpg" crc="4198968182" ref="semana-1">
+      <caption webpage="semana-1" alt=""/>
+    </file>
+    <file name="graficotendinitis2.jpg" crc="3933894425" ref="semana-1">
+      <caption webpage="semana-1" alt=""/>
+    </file>
+    <file name="u4730-4.png" crc="4090055632" ref="semana-1"/>
+    <file name="tratamiento.png" crc="338782982" ref="semana-1">
+      <caption webpage="semana-1" alt=""/>
+    </file>
+    <file name="graficotendinitis5.jpg" crc="101248239" ref="semana-1">
+      <caption webpage="semana-1" alt=""/>
+    </file>
+    <file name="u4736-15.png" crc="3866929150" ref="semana-1"/>
+    <file name="propuesta 2.jpg" crc="3838767570" ref="semana-4">
+      <caption webpage="semana-4" alt=""/>
+    </file>
+    <file name="propuesta1.jpg" crc="370252612" ref="semana-4">
+      <caption webpage="semana-4" alt=""/>
+    </file>
+    <file name="proyecto 3.jpg" crc="428267719" ref="semana-4">
+      <caption webpage="semana-4" alt=""/>
+    </file>
+    <file name="u9168-6.png" crc="3963980419" ref="semana-2"/>
+    <file name="u9170-6.png" crc="4075373015" ref="semana-2"/>
+    <file name="figura 3.jpg" crc="388138152" ref="semana-2"/>
+    <file name="u9175-7.png" crc="81565571" ref="semana-2"/>
+    <file name="u9179-6.png" crc="459282842" ref="semana-2"/>
+    <file name="figura 2.png" crc="3873244700" ref="semana-2">
+      <caption webpage="semana-2" alt=""/>
+    </file>
+    <file name="u9161-7.png" crc="3936107242" ref="semana-2"/>
+    <file name="u9165-6.png" crc="3780170212" ref="semana-2"/>
+    <file name="sigletact.jpg" crc="4039399533" ref="semana-2">
+      <caption webpage="semana-2" alt=""/>
+    </file>
+    <file name="u9199-6.png" crc="4156057380" ref="semana-2"/>
+    <file name="u9197-6.png" crc="4113799246" ref="semana-2"/>
+    <file name="screenshot_20180831-143558_word.jpg" crc="462256689" ref="semana-2">
+      <caption webpage="semana-2" alt=""/>
+    </file>
+    <file name="u9193-7.png" crc="4130058054" ref="semana-2"/>
+    <file name="u9194-8.png" crc="4241240978" ref="semana-2"/>
+    <file name="requerimientos de dise-o.jpg" crc="363337277" ref="semana-2">
+      <caption webpage="semana-2" alt=""/>
+    </file>
+    <file name="u9132-10.png" crc="477865178" ref="semana-2"/>
+    <file name="plan de trabajo.jpg" crc="492094423" ref="semana-3"/>
+    <file name="figura 1.jpg" crc="377031640" ref="semana-2">
+      <caption webpage="semana-2" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="3773672638" seo="true" mt="1536878105932" redirect="true"/>
+  <file name="semana-1.html" crc="71319664" seo="true" mt="1536878169426" redirect="true"/>
+  <file name="semana-4.html" crc="3775150305" seo="true" mt="1536878454689" redirect="true"/>
+  <file name="semana-2.html" crc="295999391" seo="true" mt="1536878962699" redirect="true"/>
+  <file name="semana-3.html" crc="4255624017" seo="true" mt="1536878349597" redirect="true"/>
+</manifest>
