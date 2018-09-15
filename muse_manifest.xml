@@ -1,32 +1,36 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Quervainfinite.html" resolutions="1x" timestamp="1536878997361">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Quervainfinite.html" resolutions="1x" timestamp="1537048888696">
   <folder name="css">
     <file name="site_global.css" crc="4186145796"/>
-    <file name="semana-2.css" crc="4248268939" ref="semana-2"/>
-    <file name="index.css" crc="254504519" ref="index"/>
-    <file name="semana-1.css" crc="4168157510" ref="semana-1"/>
-    <file name="semana-3.css" crc="253815322" ref="semana-3"/>
-    <file name="semana-4.css" crc="70623121" ref="semana-4"/>
+    <file name="semana-2.css" crc="4174974710" ref="semana-2"/>
+    <file name="index.css" crc="3812445531" ref="index"/>
+    <file name="semana-1.css" crc="72504438" ref="semana-1"/>
+    <file name="semana-3.css" crc="340864684" ref="semana-3"/>
+    <file name="semana-4.css" crc="4284171463" ref="semana-4"/>
+    <file name="propuesta-3.css" crc="3968779443" ref="propuesta-3"/>
+    <file name="propuesta-2.css" crc="3968779443" ref="propuesta-2"/>
+    <file name="propuesta-1.css" crc="3968779443" ref="propuesta-1"/>
   </folder>
   <folder name="assets">
     <file name="diagrama-de-gantt.pdf" crc="4251842997" seo="true" mt="1536124720000"/>
     <file name="plan-de-trabajo.xlsx" crc="4287933332" seo="true" mt="1536158816000"/>
     <file name="plan-de-trabajo.png" crc="412261842" seo="true" mt="1536709679000"/>
+    <file name="requermientos_diseño-hackathon.xlsx" crc="213705132" seo="true" mt="1537039131000"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:semana-1:semana-4:semana-2:semana-3"/>
-    <file name="museutils.js" crc="340535759" ref="index:semana-1:semana-4:semana-2:semana-3"/>
-    <file name="whatinput.js" crc="86476730" ref="index:semana-1:semana-4:semana-2:semana-3"/>
-    <file name="museconfig.js" crc="310584261" ref="index:semana-1:semana-4:semana-2:semana-3"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:semana-1:semana-4:semana-2:semana-3:propuesta-1:propuesta-3:propuesta-2"/>
+    <file name="museutils.js" crc="340535759" ref="index:semana-1:semana-4:semana-2:semana-3:propuesta-1:propuesta-3:propuesta-2"/>
+    <file name="whatinput.js" crc="86476730" ref="index:semana-1:semana-4:semana-2:semana-3:propuesta-1:propuesta-3:propuesta-2"/>
+    <file name="museconfig.js" crc="310584261" ref="index:semana-1:semana-4:semana-2:semana-3:propuesta-1:propuesta-3:propuesta-2"/>
     <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="index:semana-1:semana-4:semana-2:semana-3"/>
     <file name="webpro.js" crc="4059564322" ref="index:semana-4:semana-2"/>
     <file name="musewpslideshow.js" crc="3862962738" ref="index:semana-2"/>
     <file name="jquery.museoverlay.js" crc="4147669564" ref="index:semana-2"/>
     <file name="touchswipe.js" crc="4075097462" ref="index:semana-2"/>
-    <file name="jquery.musemenu.js" crc="510910590" ref="index"/>
-    <file name="jquery.watch.js" crc="51536988" ref="index:semana-1:semana-4:semana-2:semana-3"/>
+    <file name="jquery.musemenu.js" crc="510910590" ref="index:semana-1:semana-4:semana-2:semana-3"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index:semana-1:semana-4:semana-2:semana-3:propuesta-1:propuesta-3:propuesta-2"/>
     <file name="jquery.scrolleffects.js" crc="39568856" ref="index:semana-1:semana-4:semana-2:semana-3"/>
-    <file name="html5shiv.js" crc="4241844378" ref="index:semana-1:semana-4:semana-3"/>
-    <file name="require.js" crc="7928878" ref="index:semana-1:semana-4:semana-2:semana-3"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:semana-1:semana-4:semana-3:semana-2:propuesta-1:propuesta-3:propuesta-2"/>
+    <file name="require.js" crc="7928878" ref="index:semana-1:semana-4:semana-2:semana-3:propuesta-1:propuesta-3:propuesta-2"/>
     <file name="musewpdisclosure.js" crc="3883500470" ref="semana-4"/>
   </folder>
   <folder name="images">
@@ -36,7 +40,7 @@
     <file name="cabecera-012.jpg" crc="492754019" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index:semana-1:semana-4:semana-2:semana-3"/>
     <file name="cabecera-02.jpg" crc="524066571" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
@@ -107,7 +111,6 @@
     <file name="graficotendinitis5.jpg" crc="101248239" ref="semana-1">
       <caption webpage="semana-1" alt=""/>
     </file>
-    <file name="u4736-15.png" crc="3866929150" ref="semana-1"/>
     <file name="propuesta 2.jpg" crc="3838767570" ref="semana-4">
       <caption webpage="semana-4" alt=""/>
     </file>
@@ -117,38 +120,33 @@
     <file name="proyecto 3.jpg" crc="428267719" ref="semana-4">
       <caption webpage="semana-4" alt=""/>
     </file>
-    <file name="u9168-6.png" crc="3963980419" ref="semana-2"/>
-    <file name="u9170-6.png" crc="4075373015" ref="semana-2"/>
     <file name="figura 3.jpg" crc="388138152" ref="semana-2"/>
-    <file name="u9175-7.png" crc="81565571" ref="semana-2"/>
-    <file name="u9179-6.png" crc="459282842" ref="semana-2"/>
     <file name="figura 2.png" crc="3873244700" ref="semana-2">
       <caption webpage="semana-2" alt=""/>
     </file>
-    <file name="u9161-7.png" crc="3936107242" ref="semana-2"/>
-    <file name="u9165-6.png" crc="3780170212" ref="semana-2"/>
     <file name="sigletact.jpg" crc="4039399533" ref="semana-2">
       <caption webpage="semana-2" alt=""/>
     </file>
-    <file name="u9199-6.png" crc="4156057380" ref="semana-2"/>
-    <file name="u9197-6.png" crc="4113799246" ref="semana-2"/>
     <file name="screenshot_20180831-143558_word.jpg" crc="462256689" ref="semana-2">
       <caption webpage="semana-2" alt=""/>
     </file>
-    <file name="u9193-7.png" crc="4130058054" ref="semana-2"/>
-    <file name="u9194-8.png" crc="4241240978" ref="semana-2"/>
-    <file name="requerimientos de dise-o.jpg" crc="363337277" ref="semana-2">
-      <caption webpage="semana-2" alt=""/>
-    </file>
-    <file name="u9132-10.png" crc="477865178" ref="semana-2"/>
     <file name="plan de trabajo.jpg" crc="492094423" ref="semana-3"/>
     <file name="figura 1.jpg" crc="377031640" ref="semana-2">
       <caption webpage="semana-2" alt=""/>
     </file>
+    <file name="requerimientos devdiseño f.jpg" crc="4177809646" ref="semana-2">
+      <caption webpage="semana-2" alt=""/>
+    </file>
+    <file name="requerimientos devdiseño sf.png" crc="3822005811" ref="semana-2">
+      <caption webpage="semana-2" alt=""/>
+    </file>
   </folder>
-  <file name="index.html" crc="3773672638" seo="true" mt="1536878105932" redirect="true"/>
-  <file name="semana-1.html" crc="71319664" seo="true" mt="1536878169426" redirect="true"/>
-  <file name="semana-4.html" crc="3775150305" seo="true" mt="1536878454689" redirect="true"/>
-  <file name="semana-2.html" crc="295999391" seo="true" mt="1536878962699" redirect="true"/>
-  <file name="semana-3.html" crc="4255624017" seo="true" mt="1536878349597" redirect="true"/>
+  <file name="index.html" crc="255886392" seo="true" mt="1537045448249" redirect="true"/>
+  <file name="semana-1.html" crc="3898291848" seo="true" mt="1537048704890" redirect="true"/>
+  <file name="semana-4.html" crc="3917455690" seo="true" mt="1537046869608" redirect="true"/>
+  <file name="semana-2.html" crc="4199696767" seo="true" mt="1537048797535" redirect="true"/>
+  <file name="semana-3.html" crc="486282858" seo="true" mt="1537046822278" redirect="true"/>
+  <file name="propuesta-1.html" crc="4256858985" seo="true" mt="1537040471677" redirect="false"/>
+  <file name="propuesta-3.html" crc="4106771524" seo="true" mt="1537040498955" redirect="false"/>
+  <file name="propuesta-2.html" crc="499757298" seo="true" mt="1537040484317" redirect="false"/>
 </manifest>

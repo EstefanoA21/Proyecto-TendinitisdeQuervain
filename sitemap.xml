@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://Quervainfinite.html/index.html</loc>
-    <lastmod>2018-09-13</lastmod>
+    <lastmod>2018-09-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -16,26 +16,50 @@
     </image:image>
   </url>
   <url>
-    <loc>http://Quervainfinite.html/semana-1.html</loc>
-    <lastmod>2018-09-13</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>http://Quervainfinite.html/semana-4.html</loc>
-    <lastmod>2018-09-13</lastmod>
+    <lastmod>2018-09-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://Quervainfinite.html/semana-2.html</loc>
-    <lastmod>2018-09-13</lastmod>
+    <lastmod>2018-09-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://Quervainfinite.html/propuesta-3.html</loc>
+    <lastmod>2018-09-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://Quervainfinite.html/propuesta-1.html</loc>
+    <lastmod>2018-09-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://Quervainfinite.html/semana-1.html</loc>
+    <lastmod>2018-09-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://Quervainfinite.html/propuesta-2.html</loc>
+    <lastmod>2018-09-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://Quervainfinite.html/semana-3.html</loc>
-    <lastmod>2018-09-13</lastmod>
+    <lastmod>2018-09-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://Quervainfinite.html/assets/plan-de-trabajo.xlsx</loc>
+    <lastmod>2018-09-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -46,8 +70,8 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://Quervainfinite.html/assets/plan-de-trabajo.xlsx</loc>
-    <lastmod>2018-09-05</lastmod>
+    <loc>http://Quervainfinite.html/assets/requermientos_dise%C3%B1o-hackathon.xlsx</loc>
+    <lastmod>2018-09-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
