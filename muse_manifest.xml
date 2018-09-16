@@ -1,9 +1,9 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Quervainfinite.html" resolutions="1x" timestamp="1537048888696">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Quervainfinite.html" resolutions="1x" timestamp="1537052286439">
   <folder name="css">
     <file name="site_global.css" crc="4186145796"/>
     <file name="semana-2.css" crc="4174974710" ref="semana-2"/>
     <file name="index.css" crc="3812445531" ref="index"/>
-    <file name="semana-1.css" crc="72504438" ref="semana-1"/>
+    <file name="semana-1.css" crc="3796387167" ref="semana-1"/>
     <file name="semana-3.css" crc="340864684" ref="semana-3"/>
     <file name="semana-4.css" crc="4284171463" ref="semana-4"/>
     <file name="propuesta-3.css" crc="3968779443" ref="propuesta-3"/>
@@ -140,9 +140,10 @@
     <file name="requerimientos devdiseño sf.png" crc="3822005811" ref="semana-2">
       <caption webpage="semana-2" alt=""/>
     </file>
+    <file name="requerimientos devdiseño f-u10608-fr.png" crc="4079198362" ref="semana-1"/>
   </folder>
   <file name="index.html" crc="255886392" seo="true" mt="1537045448249" redirect="true"/>
-  <file name="semana-1.html" crc="3898291848" seo="true" mt="1537048704890" redirect="true"/>
+  <file name="semana-1.html" crc="4224449270" seo="true" mt="1537052081807" redirect="true"/>
   <file name="semana-4.html" crc="3917455690" seo="true" mt="1537046869608" redirect="true"/>
   <file name="semana-2.html" crc="4199696767" seo="true" mt="1537048797535" redirect="true"/>
   <file name="semana-3.html" crc="486282858" seo="true" mt="1537046822278" redirect="true"/>
