@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Quervainfinite.html" resolutions="1x" timestamp="1537097138554">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Quervainfinite.html" resolutions="1x" timestamp="1537097318808">
   <folder name="css">
     <file name="site_global.css" crc="4186145796"/>
     <file name="semana-2.css" crc="375302178" ref="semana-2"/>
@@ -96,10 +96,10 @@
     <file name="infinite con letra (png).png" crc="4011096262" ref="index:semana-1:semana-4:semana-2:semana-3:semana-5">
       <caption webpage="index" alt=""/>
       <caption webpage="semana-5" alt=""/>
-      <caption webpage="semana-3" alt=""/>
       <caption webpage="semana-2" alt=""/>
-      <caption webpage="semana-4" alt=""/>
       <caption webpage="semana-1" alt=""/>
+      <caption webpage="semana-4" alt=""/>
+      <caption webpage="semana-3" alt=""/>
     </file>
     <file name="graficotendinitis.jpg" crc="4198968182" ref="semana-1">
       <caption webpage="semana-1" alt=""/>
@@ -145,7 +145,7 @@
     </file>
     <file name="requerimientos devdiseño f-u10608-fr.png" crc="3982973763" ref="semana-1"/>
   </folder>
-  <file name="index.html" crc="182682764" seo="true" mt="1537090756481" redirect="true"/>
+  <file name="index.html" crc="3785493024" seo="true" mt="1537097298825" redirect="true"/>
   <file name="semana-1.html" crc="4159838604" seo="true" mt="1537059328567" redirect="true"/>
   <file name="semana-4.html" crc="3917455690" seo="true" mt="1537046869608" redirect="true"/>
   <file name="semana-2.html" crc="3993379859" seo="true" mt="1537092740513" redirect="true"/>
