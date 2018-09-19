@@ -10,13 +10,13 @@
 document.documentElement.className = document.documentElement.className.replace(/\bnojs\b/g, 'js');
 
 // Check that all required assets are uploaded and up-to-date
-if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required":["museutils.js", "museconfig.js", "jquery.musepolyfill.bgsize.js", "jquery.watch.js", "jquery.scrolleffects.js", "require.js", "semana-5.css"], "outOfDate":[]};
+if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required":["museutils.js", "museconfig.js", "jquery.watch.js", "jquery.musepolyfill.bgsize.js", "jquery.musemenu.js", "jquery.scrolleffects.js", "require.js", "semana-5.css"], "outOfDate":[]};
 </script>
   
   <title>Semana 5</title>
   <!-- CSS -->
   <link rel="stylesheet" type="text/css" href="css/site_global.css?crc=4186145796"/>
-  <link rel="stylesheet" type="text/css" href="css/semana-5.css?crc=270861580" id="pagesheet"/>
+  <link rel="stylesheet" type="text/css" href="css/semana-5.css?crc=3777967648" id="pagesheet"/>
   <!-- Other scripts -->
   <script type="text/javascript">
    var __adobewebfontsappname__ = "muse";
@@ -45,11 +45,17 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
     </div>
     <div class="colelem" id="u10748"><!-- simple frame --></div>
     <div class="colelem" id="u10770"><!-- custom html -->
-     <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRAgUCaZZnuIRTCNnvKjEwWowf9GWWAJRtbF7y5_P9tYDUqSjaoBt8dCfPIeATEEAEPIhVCH19yTb6x/pubhtml?gid=1417858175&amp;single=true&amp;widget=true&amp;headers=false" height="1000"  width="880"></iframe>
+     
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQAopTJMHYJVoMvPhYwQ13Pw9EHdIMsIOEDWEgcIOB0dhv6pwrs8gzedK-ow7E8cMFSGmE1kzLNKOye/pubhtml?widget=true&amp;headers=false"height="1000"  width="1200"></iframe>
 
     </div>
+    <nav class="MenuBar clearfix colelem" id="menuu10858"><!-- horizontal box -->
+     <div class="MenuItemContainer clearfix grpelem" id="u10859"><!-- vertical box -->
+      <a class="nonblock nontext MenuItem MenuItemWithSubMenu transition rounded-corners clearfix colelem" id="u10862" href="semana-3.html"><!-- horizontal box --><div class="MenuItemLabel NoWrap clearfix grpelem" id="u10865-4"><!-- content --><p>Semana 4</p></div></a>
+     </div>
+    </nav>
    </div>
-   <div class="verticalspacer" data-offset-top="1419" data-content-above-spacer="1419" data-content-below-spacer="62"></div>
+   <div class="verticalspacer" data-offset-top="1478" data-content-above-spacer="1478" data-content-below-spacer="62"></div>
   </div>
   <!-- Other scripts -->
   <script type="text/javascript">
@@ -62,13 +68,14 @@ var suppressMissingFileError = false
 k[1]:null,k=k&&k[2]?k[2]:null;switch(k.toLowerCase()){case "css":i=i.replace(/\W/gi,"_").replace(/^([^a-z])/gi,"_$1");g.className+=" "+i;i=a(d(g,"color"));k=a(d(g,"backgroundColor"));i!=0||k!=0?(Muse.assets.required.splice(j,1),"undefined"!=typeof b[l]&&(i!=b[l]>>>24||k!=(b[l]&16777215))&&Muse.assets.outOfDate.push(l)):j++;g.className="version";break;case "js":j++;break;default:throw Error("Unsupported file type: "+k);}}c?c().jquery!="1.8.3"&&Muse.assets.outOfDate.push("jquery-1.8.3.min.js"):Muse.assets.required.push("jquery-1.8.3.min.js");
 g.parentNode.removeChild(g);if(Muse.assets.outOfDate.length||Muse.assets.required.length)g="Puede que determinados archivos falten en el servidor o sean incorrectos. Limpie la cache del navegador e inténtelo de nuevo. Si el problema persiste, póngase en contacto con el administrador del sitio web.",f&&Muse.assets.outOfDate.length&&(g+="\nOut of date: "+Muse.assets.outOfDate.join(",")),f&&Muse.assets.required.length&&(g+="\nMissing: "+Muse.assets.required.join(",")),suppressMissingFileError?(g+="\nUse SuppressMissingFileError key in AppPrefs.xml to show missing file error pop up.",console.log(g)):alert(g)};location&&location.search&&location.search.match&&location.search.match(/muse_debug/gi)?
 setTimeout(function(){f(!0)},5E3):f()}};
-var muse_init=function(){require.config({baseUrl:""});require(["jquery","museutils","whatinput","jquery.watch","jquery.musepolyfill.bgsize","jquery.scrolleffects"],function(c){var $ = c;$(document).ready(function(){try{
+var muse_init=function(){require.config({baseUrl:""});require(["jquery","museutils","whatinput","jquery.watch","jquery.musepolyfill.bgsize","jquery.musemenu","jquery.scrolleffects"],function(c){var $ = c;$(document).ready(function(){try{
 window.Muse.assets.check($);/* body */
 Muse.Utils.transformMarkupToFixBrowserProblemsPreInit();/* body */
 Muse.Utils.prepHyperlinks(true);/* body */
 Muse.Utils.resizeHeight('.browser_width');/* resize height */
 Muse.Utils.requestAnimationFrame(function() { $('body').addClass('initialized'); });/* mark body as initialized */
 Muse.Utils.makeButtonsVisibleAfterSettingMinWidth();/* body */
+Muse.Utils.initWidget('.MenuBar', ['#bp_infinity'], function(elem) { return $(elem).museMenu(); });/* unifiedNavBar */
 Muse.Utils.fullPage('#page');/* 100% height page */
 $('#u10751-bw').registerPositionScrollEffect([{"speed":[null,0],"in":[-Infinity,12.1]},{"speed":[null,0],"in":[12.1,Infinity]}]);/* scroll effect */
 $('#u10752').registerPositionScrollEffect([{"speed":[0,0],"in":[-Infinity,11.8]},{"speed":[0,0],"in":[11.8,Infinity]}]);/* scroll effect */

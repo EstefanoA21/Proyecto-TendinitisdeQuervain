@@ -1,15 +1,15 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Quervainfinite.html" resolutions="1x" timestamp="1537097318808">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Quervainfinite.html" resolutions="1x" timestamp="1537359541559">
   <folder name="css">
     <file name="site_global.css" crc="4186145796"/>
     <file name="semana-2.css" crc="375302178" ref="semana-2"/>
     <file name="index.css" crc="3863750446" ref="index"/>
     <file name="semana-1.css" crc="4291011638" ref="semana-1"/>
     <file name="semana-3.css" crc="340864684" ref="semana-3"/>
-    <file name="semana-4.css" crc="4284171463" ref="semana-4"/>
+    <file name="semana-4.css" crc="392408179" ref="semana-4"/>
     <file name="propuesta-3.css" crc="3968779443" ref="propuesta-3"/>
     <file name="propuesta-2.css" crc="3968779443" ref="propuesta-2"/>
     <file name="propuesta-1.css" crc="3968779443" ref="propuesta-1"/>
-    <file name="semana-5.css" crc="270861580" ref="semana-5"/>
+    <file name="semana-5.css" crc="3777967648" ref="semana-5"/>
   </folder>
   <folder name="assets">
     <file name="diagrama-de-gantt.pdf" crc="4251842997" seo="true" mt="1536124720000"/>
@@ -27,7 +27,7 @@
     <file name="musewpslideshow.js" crc="3862962738" ref="index:semana-2"/>
     <file name="jquery.museoverlay.js" crc="4147669564" ref="index:semana-2"/>
     <file name="touchswipe.js" crc="4075097462" ref="index:semana-2"/>
-    <file name="jquery.musemenu.js" crc="510910590" ref="index:semana-1:semana-4:semana-2:semana-3"/>
+    <file name="jquery.musemenu.js" crc="510910590" ref="index:semana-1:semana-4:semana-2:semana-3:semana-5"/>
     <file name="jquery.watch.js" crc="51536988" ref="index:semana-1:semana-4:semana-2:semana-3:propuesta-1:propuesta-3:propuesta-2:semana-5"/>
     <file name="jquery.scrolleffects.js" crc="39568856" ref="index:semana-1:semana-4:semana-2:semana-3:semana-5"/>
     <file name="html5shiv.js" crc="4241844378" ref="index:semana-1:semana-4:semana-3:semana-2:propuesta-1:propuesta-3:propuesta-2:semana-5"/>
@@ -41,7 +41,7 @@
     <file name="cabecera-012.jpg" crc="492754019" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="blank.gif" crc="4208392903" ref="index:semana-1:semana-4:semana-2:semana-3"/>
+    <file name="blank.gif" crc="4208392903" ref="index:semana-1:semana-4:semana-2:semana-3:semana-5"/>
     <file name="cabecera-02.jpg" crc="524066571" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
@@ -96,10 +96,10 @@
     <file name="infinite con letra (png).png" crc="4011096262" ref="index:semana-1:semana-4:semana-2:semana-3:semana-5">
       <caption webpage="index" alt=""/>
       <caption webpage="semana-5" alt=""/>
+      <caption webpage="semana-3" alt=""/>
       <caption webpage="semana-2" alt=""/>
       <caption webpage="semana-1" alt=""/>
       <caption webpage="semana-4" alt=""/>
-      <caption webpage="semana-3" alt=""/>
     </file>
     <file name="graficotendinitis.jpg" crc="4198968182" ref="semana-1">
       <caption webpage="semana-1" alt=""/>
@@ -147,11 +147,11 @@
   </folder>
   <file name="index.html" crc="3785493024" seo="true" mt="1537097298825" redirect="true"/>
   <file name="semana-1.html" crc="4159838604" seo="true" mt="1537059328567" redirect="true"/>
-  <file name="semana-4.html" crc="3917455690" seo="true" mt="1537046869608" redirect="true"/>
+  <file name="semana-4.html" crc="4225502801" seo="true" mt="1537336517814" redirect="true"/>
   <file name="semana-2.html" crc="3993379859" seo="true" mt="1537092740513" redirect="true"/>
   <file name="semana-3.html" crc="486282858" seo="true" mt="1537046822278" redirect="true"/>
   <file name="propuesta-1.html" crc="4256858985" seo="true" mt="1537040471677" redirect="false"/>
   <file name="propuesta-3.html" crc="4106771524" seo="true" mt="1537040498955" redirect="false"/>
   <file name="propuesta-2.html" crc="499757298" seo="true" mt="1537040484317" redirect="false"/>
-  <file name="semana-5.html" crc="74261976" seo="true" mt="1537092361165" redirect="true"/>
+  <file name="semana-5.html" crc="4016603862" seo="true" mt="1537359472317" redirect="true"/>
 </manifest>
