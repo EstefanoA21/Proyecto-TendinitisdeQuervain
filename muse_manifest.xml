@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Quervainfinite.html" resolutions="1x" timestamp="1537972565677">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Quervainfinite.html" resolutions="1x" timestamp="1537975214434">
   <folder name="css">
     <file name="site_global.css" crc="4186145796"/>
     <file name="semana-2.css" crc="3846162876" ref="semana-2"/>
@@ -7,7 +7,7 @@
     <file name="semana-3.css" crc="340864684" ref="semana-3"/>
     <file name="semana-4.css" crc="392408179" ref="semana-4"/>
     <file name="semana-5.css" crc="11030957" ref="semana-5"/>
-    <file name="semana-6.css" crc="188813273" ref="semana-6"/>
+    <file name="semana-6.css" crc="3996535453" ref="semana-6"/>
   </folder>
   <folder name="assets">
     <file name="diagrama-de-gantt.pdf" crc="4251842997" seo="true" mt="1536124720000"/>
@@ -93,13 +93,13 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="infinite con letra (png).png" crc="4011096262" ref="index:semana-1:semana-4:semana-2:semana-3:semana-5:semana-6">
-      <caption webpage="index" alt=""/>
-      <caption webpage="semana-3" alt=""/>
-      <caption webpage="semana-6" alt=""/>
       <caption webpage="semana-5" alt=""/>
+      <caption webpage="semana-1" alt=""/>
+      <caption webpage="semana-6" alt=""/>
+      <caption webpage="index" alt=""/>
       <caption webpage="semana-4" alt=""/>
       <caption webpage="semana-2" alt=""/>
-      <caption webpage="semana-1" alt=""/>
+      <caption webpage="semana-3" alt=""/>
     </file>
     <file name="graficotendinitis.jpg" crc="4198968182" ref="semana-1">
       <caption webpage="semana-1" alt=""/>
@@ -166,5 +166,5 @@
   <file name="semana-2.html" crc="36214789" seo="true" mt="1537373966079" redirect="true"/>
   <file name="semana-3.html" crc="486282858" seo="true" mt="1537046822278" redirect="true"/>
   <file name="semana-5.html" crc="483913237" seo="true" mt="1537936730971" redirect="true"/>
-  <file name="semana-6.html" crc="4185248011" seo="true" mt="1537972543342" redirect="true"/>
+  <file name="semana-6.html" crc="3970671272" seo="true" mt="1537975147692" redirect="true"/>
 </manifest>
