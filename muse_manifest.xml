@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Quervainfinite.html" resolutions="1x" timestamp="1537977710415">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Quervainfinite.html" resolutions="1x" timestamp="1538015174387">
   <folder name="css">
     <file name="site_global.css" crc="4186145796"/>
-    <file name="semana-2.css" crc="3846162876" ref="semana-2"/>
+    <file name="semana-2.css" crc="3818865251" ref="semana-2"/>
     <file name="index.css" crc="3908547861" ref="index"/>
     <file name="semana-1.css" crc="4291011638" ref="semana-1"/>
     <file name="semana-3.css" crc="340864684" ref="semana-3"/>
@@ -93,13 +93,13 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="infinite con letra (png).png" crc="4011096262" ref="index:semana-1:semana-4:semana-2:semana-3:semana-5:semana-6">
-      <caption webpage="index" alt=""/>
-      <caption webpage="semana-3" alt=""/>
-      <caption webpage="semana-6" alt=""/>
       <caption webpage="semana-5" alt=""/>
+      <caption webpage="semana-1" alt=""/>
+      <caption webpage="semana-6" alt=""/>
+      <caption webpage="index" alt=""/>
       <caption webpage="semana-4" alt=""/>
       <caption webpage="semana-2" alt=""/>
-      <caption webpage="semana-1" alt=""/>
+      <caption webpage="semana-3" alt=""/>
     </file>
     <file name="graficotendinitis.jpg" crc="4198968182" ref="semana-1">
       <caption webpage="semana-1" alt=""/>
@@ -153,9 +153,6 @@
     <file name="concepto3.jpg" crc="389967342" ref="semana-5">
       <caption webpage="semana-5" alt=""/>
     </file>
-    <file name="reqmateriales.jpg" crc="2759409" ref="semana-2">
-      <caption webpage="semana-2" alt=""/>
-    </file>
     <file name="fuerza de compensacion.jpg" crc="4200103346" ref="semana-6">
       <caption webpage="semana-6" alt=""/>
     </file>
@@ -166,8 +163,8 @@
   <file name="index.html" crc="4147513578" seo="true" mt="1537932642040" redirect="true"/>
   <file name="semana-1.html" crc="4159838604" seo="true" mt="1537059328567" redirect="true"/>
   <file name="semana-4.html" crc="4225502801" seo="true" mt="1537336517814" redirect="true"/>
-  <file name="semana-2.html" crc="36214789" seo="true" mt="1537373966079" redirect="true"/>
+  <file name="semana-2.html" crc="438102947" seo="true" mt="1538013964541" redirect="true"/>
   <file name="semana-3.html" crc="486282858" seo="true" mt="1537046822278" redirect="true"/>
-  <file name="semana-5.html" crc="483913237" seo="true" mt="1537936730971" redirect="true"/>
+  <file name="semana-5.html" crc="4269195049" seo="true" mt="1538012895305" redirect="true"/>
   <file name="semana-6.html" crc="516991057" seo="true" mt="1537977709639" redirect="true"/>
 </manifest>
