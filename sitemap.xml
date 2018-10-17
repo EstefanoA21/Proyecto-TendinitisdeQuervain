@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://Quervainfinite.html/index.html</loc>
-    <lastmod>2018-10-02</lastmod>
+    <lastmod>2018-10-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -23,37 +23,25 @@
   </url>
   <url>
     <loc>http://Quervainfinite.html/semana-2.html</loc>
-    <lastmod>2018-10-03</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://Quervainfinite.html/semana-3.html</loc>
-    <lastmod>2018-09-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://Quervainfinite.html/semana-7.html</loc>
-    <lastmod>2018-10-09</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://Quervainfinite.html/semana-1.html</loc>
-    <lastmod>2018-10-09</lastmod>
+    <lastmod>2018-10-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://Quervainfinite.html/semana-8.html</loc>
-    <lastmod>2018-10-09</lastmod>
+    <lastmod>2018-10-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://Quervainfinite.html/semana-6.html</loc>
-    <lastmod>2018-10-10</lastmod>
+    <loc>http://Quervainfinite.html/semana-7.html</loc>
+    <lastmod>2018-10-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://Quervainfinite.html/semana-9.html</loc>
+    <lastmod>2018-10-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -64,14 +52,26 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://Quervainfinite.html/assets/diagrama-de-gantt.pdf</loc>
-    <lastmod>2018-09-05</lastmod>
+    <loc>http://Quervainfinite.html/semana-1.html</loc>
+    <lastmod>2018-10-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://Quervainfinite.html/assets/plan-de-trabajo.png</loc>
-    <lastmod>2018-09-11</lastmod>
+    <loc>http://Quervainfinite.html/semana-3.html</loc>
+    <lastmod>2018-09-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://Quervainfinite.html/semana-6.html</loc>
+    <lastmod>2018-10-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://Quervainfinite.html/assets/soportesolo.pdf</loc>
+    <lastmod>2018-10-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -82,8 +82,26 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://Quervainfinite.html/assets/soportesolo.stl</loc>
+    <lastmod>2018-10-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://Quervainfinite.html/assets/diagrama-de-gantt.pdf</loc>
+    <lastmod>2018-09-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://Quervainfinite.html/assets/requermientos_dise%C3%B1o-hackathon.xlsx</loc>
     <lastmod>2018-09-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://Quervainfinite.html/assets/plan-de-trabajo.png</loc>
+    <lastmod>2018-09-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
