@@ -17,7 +17,7 @@
   </url>
   <url>
     <loc>http://Quervainfinite.html/semana-1.html</loc>
-    <lastmod>2018-10-17</lastmod>
+    <lastmod>2018-10-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -29,12 +29,36 @@
   </url>
   <url>
     <loc>http://Quervainfinite.html/semana-2.html</loc>
-    <lastmod>2018-10-17</lastmod>
+    <lastmod>2018-10-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://Quervainfinite.html/semana-9.html</loc>
+    <lastmod>2018-10-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://Quervainfinite.html/semana-8.html</loc>
+    <lastmod>2018-10-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://Quervainfinite.html/semana-10.html</loc>
+    <lastmod>2018-10-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://Quervainfinite.html/semana-6.html</loc>
+    <lastmod>2018-10-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://Quervainfinite.html/semana-5.html</loc>
     <lastmod>2018-10-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -46,26 +70,14 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://Quervainfinite.html/semana-9.html</loc>
-    <lastmod>2018-10-23</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://Quervainfinite.html/semana-5.html</loc>
-    <lastmod>2018-10-23</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>http://Quervainfinite.html/semana-3.html</loc>
-    <lastmod>2018-09-15</lastmod>
+    <lastmod>2018-10-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://Quervainfinite.html/semana-6.html</loc>
-    <lastmod>2018-10-23</lastmod>
+    <loc>http://Quervainfinite.html/assets/plan-de-trabajo.xlsx</loc>
+    <lastmod>2018-09-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -82,8 +94,8 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://Quervainfinite.html/assets/plan-de-trabajo.xlsx</loc>
-    <lastmod>2018-09-05</lastmod>
+    <loc>http://Quervainfinite.html/assets/1pieza4-plano.pdf</loc>
+    <lastmod>2018-10-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
