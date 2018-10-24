@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Quervainfinite.html" resolutions="1x" timestamp="1540387422680">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Quervainfinite.html" resolutions="1x" timestamp="1540403261224">
   <folder name="css">
     <file name="site_global.css" crc="4186145796"/>
-    <file name="semana-2.css" crc="4079111608" ref="semana-2"/>
+    <file name="semana-2.css" crc="13790758" ref="semana-2"/>
     <file name="index.css" crc="4244629076" ref="index"/>
     <file name="semana-1.css" crc="101730486" ref="semana-1"/>
     <file name="semana-3.css" crc="340864684" ref="semana-3"/>
@@ -11,7 +11,7 @@
     <file name="semana-7.css" crc="4091788930" ref="semana-7"/>
     <file name="semana-8.css" crc="324506077" ref="semana-8"/>
     <file name="semana-9.css" crc="4260382981" ref="semana-9"/>
-    <file name="semana-10.css" crc="533464476" ref="semana-10"/>
+    <file name="semana-10.css" crc="462723714" ref="semana-10"/>
   </folder>
   <folder name="assets">
     <file name="diagrama-de-gantt.pdf" crc="4251842997" seo="true" mt="1536124720000"/>
@@ -28,14 +28,14 @@
     <file name="museutils.js" crc="340535759" ref="index:semana-1:semana-4:semana-2:semana-3:semana-5:semana-6:semana-7:semana-8:semana-9:semana-10"/>
     <file name="whatinput.js" crc="86476730" ref="index:semana-1:semana-4:semana-2:semana-3:semana-5:semana-6:semana-7:semana-8:semana-9:semana-10"/>
     <file name="museconfig.js" crc="310584261" ref="index:semana-1:semana-4:semana-2:semana-3:semana-5:semana-6:semana-7:semana-8:semana-9:semana-10"/>
-    <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="index:semana-1:semana-4:semana-2:semana-3:semana-5:semana-6:semana-7:semana-8:semana-9"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="index:semana-1:semana-4:semana-2:semana-3:semana-5:semana-6:semana-7:semana-8:semana-9:semana-10"/>
     <file name="webpro.js" crc="4059564322" ref="index:semana-2"/>
     <file name="musewpslideshow.js" crc="3862962738" ref="index:semana-2"/>
     <file name="jquery.museoverlay.js" crc="4147669564" ref="index:semana-2"/>
     <file name="touchswipe.js" crc="4075097462" ref="index:semana-2"/>
     <file name="jquery.musemenu.js" crc="510910590" ref="index:semana-1:semana-4:semana-2:semana-3:semana-5:semana-6:semana-7:semana-8:semana-9"/>
     <file name="jquery.watch.js" crc="51536988" ref="index:semana-1:semana-4:semana-2:semana-3:semana-5:semana-6:semana-7:semana-8:semana-9:semana-10"/>
-    <file name="jquery.scrolleffects.js" crc="39568856" ref="index:semana-1:semana-4:semana-2:semana-3:semana-5:semana-6:semana-7:semana-8:semana-9"/>
+    <file name="jquery.scrolleffects.js" crc="39568856" ref="index:semana-1:semana-4:semana-2:semana-3:semana-5:semana-6:semana-7:semana-8:semana-9:semana-10"/>
     <file name="html5shiv.js" crc="4241844378" ref="index:semana-1:semana-4:semana-3:semana-2:semana-5:semana-6:semana-7:semana-9:semana-8:semana-10"/>
     <file name="require.js" crc="7928878" ref="index:semana-1:semana-4:semana-2:semana-3:semana-5:semana-6:semana-7:semana-8:semana-9:semana-10"/>
   </folder>
@@ -102,15 +102,16 @@
     <file name="que-hacemos.png" crc="482448688" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="infinite con letra (png).png" crc="4011096262" ref="index:semana-1:semana-4:semana-2:semana-3:semana-5:semana-6:semana-7:semana-8:semana-9">
-      <caption webpage="semana-4" alt=""/>
+    <file name="infinite con letra (png).png" crc="4011096262" ref="index:semana-1:semana-4:semana-2:semana-3:semana-5:semana-6:semana-7:semana-8:semana-9:semana-10">
+      <caption webpage="semana-7" alt=""/>
       <caption webpage="semana-9" alt=""/>
-      <caption webpage="semana-2" alt=""/>
       <caption webpage="semana-6" alt=""/>
+      <caption webpage="semana-2" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="semana-1" alt=""/>
-      <caption webpage="semana-7" alt=""/>
+      <caption webpage="semana-10" alt=""/>
       <caption webpage="semana-8" alt=""/>
+      <caption webpage="semana-4" alt=""/>
       <caption webpage="semana-5" alt=""/>
       <caption webpage="semana-3" alt=""/>
     </file>
@@ -267,16 +268,22 @@
     <file name="brazalete.jpg" crc="4188461468" ref="semana-9">
       <caption webpage="semana-9" alt=""/>
     </file>
+    <file name="diagrama fuerza de compensación.jpg" crc="115370777" ref="semana-2">
+      <caption webpage="semana-2" alt=""/>
+    </file>
+    <file name="captura de pantalla 2018-10-24 a la(s) 111756.jpg" crc="4040028540" ref="semana-10">
+      <caption webpage="semana-10" alt=""/>
+    </file>
   </folder>
   <file name="index.html" crc="326503234" seo="true" mt="1540345686704" redirect="true"/>
   <file name="semana-1.html" crc="274485176" seo="true" mt="1540345686704" redirect="true"/>
   <file name="semana-4.html" crc="3981446565" seo="true" mt="1540345686704" redirect="true"/>
-  <file name="semana-2.html" crc="257416145" seo="true" mt="1540345686704" redirect="true"/>
+  <file name="semana-2.html" crc="429091766" seo="true" mt="1540394247209" redirect="true"/>
   <file name="semana-3.html" crc="486282858" seo="true" mt="1540345686704" redirect="true"/>
   <file name="semana-5.html" crc="3929867249" seo="true" mt="1540345686704" redirect="true"/>
   <file name="semana-6.html" crc="3766165198" seo="true" mt="1540385073139" redirect="true"/>
   <file name="semana-7.html" crc="4133882283" seo="true" mt="1540346594163" redirect="true"/>
   <file name="semana-8.html" crc="391643796" seo="true" mt="1540387402606" redirect="true"/>
   <file name="semana-9.html" crc="481600632" seo="true" mt="1540385073597" redirect="true"/>
-  <file name="semana-10.html" crc="4004195648" seo="true" mt="1540345866300" redirect="false"/>
+  <file name="semana-10.html" crc="3878757897" seo="true" mt="1540403256019" redirect="true"/>
 </manifest>
