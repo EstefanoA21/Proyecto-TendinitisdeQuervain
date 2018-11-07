@@ -10,13 +10,13 @@
 document.documentElement.className = document.documentElement.className.replace(/\bnojs\b/g, 'js');
 
 // Check that all required assets are uploaded and up-to-date
-if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required":["museutils.js", "museconfig.js", "jquery.musepolyfill.bgsize.js", "jquery.watch.js", "jquery.scrolleffects.js", "require.js", "semana-11.css"], "outOfDate":[]};
+if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required":["museutils.js", "museconfig.js", "jquery.watch.js", "jquery.musepolyfill.bgsize.js", "jquery.musemenu.js", "jquery.scrolleffects.js", "require.js", "semana-11.css"], "outOfDate":[]};
 </script>
   
   <title>Semana 11</title>
   <!-- CSS -->
   <link rel="stylesheet" type="text/css" href="css/site_global.css?crc=4186145796"/>
-  <link rel="stylesheet" type="text/css" href="css/semana-11.css?crc=293159643" id="pagesheet"/>
+  <link rel="stylesheet" type="text/css" href="css/semana-11.css?crc=3880835517" id="pagesheet"/>
   <!-- Other scripts -->
   <script type="text/javascript">
    var __adobewebfontsappname__ = "muse";
@@ -93,8 +93,20 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
      <p>&nbsp;</p>
      <p>También se ha sugerido un material que se implemente a manera de adhesivo sobre la superficie de PLA y que tenga propiedades antideslizantes. Se sugirió caucho o algún jebe, pero debido a facilidad de obtención, toxicidad, precio y manipulación, se realizarás pruebas con silicona, que además nos da la facilidad de, así como el Sikaflex, poder distribuir el material en la zona necesaria sin tener que realizar algún recorte extra en el modelo.</p>
     </div>
+    <div class="clearfix colelem" id="pmenuu15513"><!-- group -->
+     <nav class="MenuBar clearfix grpelem" id="menuu15513"><!-- horizontal box -->
+      <div class="MenuItemContainer clearfix grpelem" id="u15514"><!-- vertical box -->
+       <a class="nonblock nontext MenuItem MenuItemWithSubMenu transition rounded-corners clearfix colelem" id="u15515" href="semana-10.html"><!-- horizontal box --><div class="MenuItemLabel NoWrap clearfix grpelem" id="u15518-4"><!-- content --><p>Semana 10</p></div></a>
+      </div>
+     </nav>
+     <nav class="MenuBar clearfix grpelem" id="menuu15521"><!-- horizontal box -->
+      <div class="MenuItemContainer clearfix grpelem" id="u15522"><!-- vertical box -->
+       <a class="nonblock nontext MenuItem MenuItemWithSubMenu transition rounded-corners clearfix colelem" id="u15525" href="semana-12.html"><!-- horizontal box --><div class="MenuItemLabel NoWrap clearfix grpelem" id="u15527-4"><!-- content --><p>Semana 12</p></div></a>
+      </div>
+     </nav>
+    </div>
    </div>
-   <div class="verticalspacer" data-offset-top="1258" data-content-above-spacer="1257" data-content-below-spacer="61"></div>
+   <div class="verticalspacer" data-offset-top="1309" data-content-above-spacer="1309" data-content-below-spacer="62"></div>
   </div>
   <!-- Other scripts -->
   <script type="text/javascript">
@@ -107,13 +119,14 @@ var suppressMissingFileError = false
 k[1]:null,k=k&&k[2]?k[2]:null;switch(k.toLowerCase()){case "css":i=i.replace(/\W/gi,"_").replace(/^([^a-z])/gi,"_$1");g.className+=" "+i;i=a(d(g,"color"));k=a(d(g,"backgroundColor"));i!=0||k!=0?(Muse.assets.required.splice(j,1),"undefined"!=typeof b[l]&&(i!=b[l]>>>24||k!=(b[l]&16777215))&&Muse.assets.outOfDate.push(l)):j++;g.className="version";break;case "js":j++;break;default:throw Error("Unsupported file type: "+k);}}c?c().jquery!="1.8.3"&&Muse.assets.outOfDate.push("jquery-1.8.3.min.js"):Muse.assets.required.push("jquery-1.8.3.min.js");
 g.parentNode.removeChild(g);if(Muse.assets.outOfDate.length||Muse.assets.required.length)g="Puede que determinados archivos falten en el servidor o sean incorrectos. Limpie la cache del navegador e inténtelo de nuevo. Si el problema persiste, póngase en contacto con el administrador del sitio web.",f&&Muse.assets.outOfDate.length&&(g+="\nOut of date: "+Muse.assets.outOfDate.join(",")),f&&Muse.assets.required.length&&(g+="\nMissing: "+Muse.assets.required.join(",")),suppressMissingFileError?(g+="\nUse SuppressMissingFileError key in AppPrefs.xml to show missing file error pop up.",console.log(g)):alert(g)};location&&location.search&&location.search.match&&location.search.match(/muse_debug/gi)?
 setTimeout(function(){f(!0)},5E3):f()}};
-var muse_init=function(){require.config({baseUrl:""});require(["jquery","museutils","whatinput","jquery.watch","jquery.musepolyfill.bgsize","jquery.scrolleffects"],function(c){var $ = c;$(document).ready(function(){try{
+var muse_init=function(){require.config({baseUrl:""});require(["jquery","museutils","whatinput","jquery.watch","jquery.musepolyfill.bgsize","jquery.musemenu","jquery.scrolleffects"],function(c){var $ = c;$(document).ready(function(){try{
 window.Muse.assets.check($);/* body */
 Muse.Utils.transformMarkupToFixBrowserProblemsPreInit();/* body */
 Muse.Utils.prepHyperlinks(true);/* body */
 Muse.Utils.resizeHeight('.browser_width');/* resize height */
 Muse.Utils.requestAnimationFrame(function() { $('body').addClass('initialized'); });/* mark body as initialized */
 Muse.Utils.makeButtonsVisibleAfterSettingMinWidth();/* body */
+Muse.Utils.initWidget('.MenuBar', ['#bp_infinity'], function(elem) { return $(elem).museMenu(); });/* unifiedNavBar */
 Muse.Utils.fullPage('#page');/* 100% height page */
 $('#u15074-bw').registerPositionScrollEffect([{"speed":[null,0],"in":[-Infinity,10]},{"speed":[null,0],"in":[10,Infinity]}]);/* scroll effect */
 $('#u15075').registerPositionScrollEffect([{"speed":[0,0],"in":[-Infinity,10.05]},{"speed":[0,0],"in":[10.05,Infinity]}]);/* scroll effect */

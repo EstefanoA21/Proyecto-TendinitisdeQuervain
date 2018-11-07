@@ -10,13 +10,13 @@
 document.documentElement.className = document.documentElement.className.replace(/\bnojs\b/g, 'js');
 
 // Check that all required assets are uploaded and up-to-date
-if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required":["museutils.js", "museconfig.js", "jquery.watch.js", "jquery.musepolyfill.bgsize.js", "jquery.scrolleffects.js", "require.js", "semana-12.css"], "outOfDate":[]};
+if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required":["museutils.js", "museconfig.js", "jquery.watch.js", "jquery.musepolyfill.bgsize.js", "jquery.musemenu.js", "jquery.scrolleffects.js", "require.js", "semana-12.css"], "outOfDate":[]};
 </script>
   
   <title>Semana 12</title>
   <!-- CSS -->
   <link rel="stylesheet" type="text/css" href="css/site_global.css?crc=4186145796"/>
-  <link rel="stylesheet" type="text/css" href="css/semana-12.css?crc=4272471803" id="pagesheet"/>
+  <link rel="stylesheet" type="text/css" href="css/semana-12.css?crc=95335551" id="pagesheet"/>
   <!-- Other scripts -->
   <script type="text/javascript">
    var __adobewebfontsappname__ = "muse";
@@ -122,10 +122,9 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
     <div class="clearfix colelem" id="pu15369"><!-- group -->
      <div class="museBGSize grpelem" id="u15369"><!-- content --></div>
      <div class="museBGSize grpelem" id="u15372"><!-- content --></div>
-     <div class="clearfix grpelem" id="u15416-4"><!-- content -->
-      <p>Imagen 12.4: Prueba de resistencia y agarre realizada con el soporte 2.</p>
-     </div>
-     <div class="grpelem" id="u15434"><!-- content --></div>
+    </div>
+    <div class="clearfix colelem" id="u15416-4"><!-- content -->
+     <p>Imagen 12.4: Prueba de resistencia y agarre realizada con el soporte 2.</p>
     </div>
     <div class="clearfix colelem" id="u15419-4"><!-- content -->
      <p>Observaciones</p>
@@ -137,6 +136,12 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
      <p>-El soporte 1 proporcionaba la movilidad suficiente para realizar diferentes posturas al momento de corte debido a su único punto de apoyo al brazalete.</p>
      <p>-El soporte 2 presentó dificultades al momento de realizar diferentes posturas, ya que este no permite el movimiento de la muñeca en ningún eje.</p>
      <p>-El agarre del soporte 2, al no poder moverse, era necesario ser complementado por una mano extra o el mismo pulgar, lo que representa una fuerte desventaja para este prototipo.</p>
+    </div>
+    <div class="clearfix colelem" id="pu15434"><!-- group -->
+     <div class="museBGSize grpelem" id="u15434"><!-- content --></div>
+     <div class="clearfix grpelem" id="u15609-4"><!-- content -->
+      <p>Imagen 12.5: Prototipo elegido (sistema con soporte 1)</p>
+     </div>
     </div>
     <div class="clearfix colelem" id="u15428-4"><!-- content -->
      <p>Segunda evaluación</p>
@@ -151,6 +156,9 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
      <div class="museBGSize grpelem" id="u15456" data-mu-ie-matrix="progid:DXImageTransform.Microsoft.Matrix(M11=0,M12=1,M21=-1,M22=0,SizingMethod='auto expand')" data-mu-ie-matrix-dx="36" data-mu-ie-matrix-dy="-37"><!-- content --></div>
      <div class="museBGSize grpelem" id="u15459"><!-- content --></div>
     </div>
+    <div class="clearfix colelem" id="u15612-4"><!-- content -->
+     <p>Imagen 12.6: Sistema con guante modificado</p>
+    </div>
     <div class="clearfix colelem" id="u15478-9"><!-- content -->
      <p>Conclusión:</p>
      <p>Notamos que los resultados obtenidos son los esperados. Se logró cortar pollo sin poner en riesgo al dedo pulgar.</p>
@@ -158,8 +166,24 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
      <p>&nbsp;</p>
     </div>
     <div class="museBGSize colelem" id="u15481"><!-- content --></div>
+    <div class="clearfix colelem" id="pmenuu15561"><!-- group -->
+     <nav class="MenuBar clearfix grpelem" id="menuu15561"><!-- horizontal box -->
+      <div class="MenuItemContainer clearfix grpelem" id="u15562"><!-- vertical box -->
+       <a class="nonblock nontext MenuItem MenuItemWithSubMenu transition rounded-corners clearfix colelem" id="u15563" href="semana-11.html"><!-- horizontal box --><div class="MenuItemLabel NoWrap clearfix grpelem" id="u15566-4"><!-- content --><p>Semana 11</p></div></a>
+      </div>
+     </nav>
+     <nav class="MenuBar clearfix grpelem" id="menuu15569"><!-- horizontal box -->
+      <div class="MenuItemContainer clearfix grpelem" id="u15570"><!-- vertical box -->
+       <div class="MenuItem MenuItemWithSubMenu transition rounded-corners clearfix colelem" id="u15573"><!-- horizontal box -->
+        <div class="MenuItemLabel NoWrap clearfix grpelem" id="u15575-4"><!-- content -->
+         <p>Semana 13</p>
+        </div>
+       </div>
+      </div>
+     </nav>
+    </div>
    </div>
-   <div class="verticalspacer" data-offset-top="3765" data-content-above-spacer="3765" data-content-below-spacer="62"></div>
+   <div class="verticalspacer" data-offset-top="4161" data-content-above-spacer="4161" data-content-below-spacer="62"></div>
   </div>
   <!-- Other scripts -->
   <script type="text/javascript">
@@ -172,13 +196,14 @@ var suppressMissingFileError = false
 k[1]:null,k=k&&k[2]?k[2]:null;switch(k.toLowerCase()){case "css":i=i.replace(/\W/gi,"_").replace(/^([^a-z])/gi,"_$1");g.className+=" "+i;i=a(d(g,"color"));k=a(d(g,"backgroundColor"));i!=0||k!=0?(Muse.assets.required.splice(j,1),"undefined"!=typeof b[l]&&(i!=b[l]>>>24||k!=(b[l]&16777215))&&Muse.assets.outOfDate.push(l)):j++;g.className="version";break;case "js":j++;break;default:throw Error("Unsupported file type: "+k);}}c?c().jquery!="1.8.3"&&Muse.assets.outOfDate.push("jquery-1.8.3.min.js"):Muse.assets.required.push("jquery-1.8.3.min.js");
 g.parentNode.removeChild(g);if(Muse.assets.outOfDate.length||Muse.assets.required.length)g="Puede que determinados archivos falten en el servidor o sean incorrectos. Limpie la cache del navegador e inténtelo de nuevo. Si el problema persiste, póngase en contacto con el administrador del sitio web.",f&&Muse.assets.outOfDate.length&&(g+="\nOut of date: "+Muse.assets.outOfDate.join(",")),f&&Muse.assets.required.length&&(g+="\nMissing: "+Muse.assets.required.join(",")),suppressMissingFileError?(g+="\nUse SuppressMissingFileError key in AppPrefs.xml to show missing file error pop up.",console.log(g)):alert(g)};location&&location.search&&location.search.match&&location.search.match(/muse_debug/gi)?
 setTimeout(function(){f(!0)},5E3):f()}};
-var muse_init=function(){require.config({baseUrl:""});require(["jquery","museutils","whatinput","jquery.watch","jquery.musepolyfill.bgsize","jquery.scrolleffects"],function(c){var $ = c;$(document).ready(function(){try{
+var muse_init=function(){require.config({baseUrl:""});require(["jquery","museutils","whatinput","jquery.watch","jquery.musepolyfill.bgsize","jquery.musemenu","jquery.scrolleffects"],function(c){var $ = c;$(document).ready(function(){try{
 window.Muse.assets.check($);/* body */
 Muse.Utils.transformMarkupToFixBrowserProblemsPreInit();/* body */
 Muse.Utils.prepHyperlinks(true);/* body */
 Muse.Utils.resizeHeight('.browser_width');/* resize height */
 Muse.Utils.requestAnimationFrame(function() { $('body').addClass('initialized'); });/* mark body as initialized */
 Muse.Utils.makeButtonsVisibleAfterSettingMinWidth();/* body */
+Muse.Utils.initWidget('.MenuBar', ['#bp_infinity'], function(elem) { return $(elem).museMenu(); });/* unifiedNavBar */
 Muse.Utils.fullPage('#page');/* 100% height page */
 $('#u15185-bw').registerPositionScrollEffect([{"speed":[null,0],"in":[-Infinity,11.9]},{"speed":[null,0],"in":[11.9,Infinity]}]);/* scroll effect */
 $('#u15186').registerPositionScrollEffect([{"speed":[0,0],"in":[-Infinity,12]},{"speed":[0,0],"in":[12,Infinity]}]);/* scroll effect */
