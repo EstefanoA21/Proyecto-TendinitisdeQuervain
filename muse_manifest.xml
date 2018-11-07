@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Quervainfinite.html" resolutions="1x" timestamp="1541599871394">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Quervainfinite.html" resolutions="1x" timestamp="1541608615246">
   <folder name="css">
     <file name="site_global.css" crc="4186145796"/>
     <file name="semana-2.css" crc="13790758" ref="semana-2"/>
@@ -11,9 +11,9 @@
     <file name="semana-7.css" crc="4007032095" ref="semana-7"/>
     <file name="semana-8.css" crc="3898339950" ref="semana-8"/>
     <file name="semana-9.css" crc="111343462" ref="semana-9"/>
-    <file name="semana-10.css" crc="4026621579" ref="semana-10"/>
-    <file name="semana-11.css" crc="3880835517" ref="semana-11"/>
-    <file name="semana-12.css" crc="95335551" ref="semana-12"/>
+    <file name="semana-10.css" crc="4142871863" ref="semana-10"/>
+    <file name="semana-11.css" crc="4115074784" ref="semana-11"/>
+    <file name="semana-12.css" crc="428446677" ref="semana-12"/>
   </folder>
   <folder name="assets">
     <file name="diagrama-de-gantt.pdf" crc="4251842997" seo="true" mt="1536124720000"/>
@@ -108,18 +108,18 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="infinite con letra (png).png" crc="4011096262" ref="index:semana-1:semana-4:semana-2:semana-3:semana-5:semana-6:semana-7:semana-8:semana-9:semana-10:semana-11:semana-12">
-      <caption webpage="semana-11" alt=""/>
-      <caption webpage="semana-1" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="semana-4" alt=""/>
       <caption webpage="semana-12" alt=""/>
-      <caption webpage="semana-2" alt=""/>
       <caption webpage="semana-5" alt=""/>
+      <caption webpage="semana-11" alt=""/>
       <caption webpage="semana-8" alt=""/>
+      <caption webpage="index" alt=""/>
       <caption webpage="semana-10" alt=""/>
-      <caption webpage="semana-9" alt=""/>
-      <caption webpage="semana-7" alt=""/>
+      <caption webpage="semana-4" alt=""/>
+      <caption webpage="semana-1" alt=""/>
       <caption webpage="semana-6" alt=""/>
+      <caption webpage="semana-2" alt=""/>
+      <caption webpage="semana-7" alt=""/>
+      <caption webpage="semana-9" alt=""/>
       <caption webpage="semana-3" alt=""/>
     </file>
     <file name="graficotendinitis.jpg" crc="4198968182" ref="semana-1">
@@ -270,8 +270,8 @@
       <caption webpage="semana-9" alt=""/>
     </file>
     <file name="brazalete.jpg" crc="380989838" ref="semana-10">
-      <caption webpage="semana-9" alt=""/>
       <caption webpage="semana-10" alt=""/>
+      <caption webpage="semana-9" alt=""/>
     </file>
     <file name="diagrama fuerza de compensación.jpg" crc="115370777" ref="semana-2">
       <caption webpage="semana-2" alt=""/>
@@ -353,7 +353,7 @@
   <file name="semana-7.html" crc="3786302798" seo="true" mt="1540582219039" redirect="true"/>
   <file name="semana-8.html" crc="223784766" seo="true" mt="1540585070255" redirect="true"/>
   <file name="semana-9.html" crc="439610048" seo="true" mt="1541570720098" redirect="true"/>
-  <file name="semana-10.html" crc="214299584" seo="true" mt="1541599592152" redirect="true"/>
-  <file name="semana-11.html" crc="163404615" seo="true" mt="1541599528990" redirect="true"/>
-  <file name="semana-12.html" crc="445344662" seo="true" mt="1541599868544" redirect="true"/>
+  <file name="semana-10.html" crc="153573803" seo="true" mt="1541605810532" redirect="true"/>
+  <file name="semana-11.html" crc="3938721143" seo="true" mt="1541605021751" redirect="true"/>
+  <file name="semana-12.html" crc="33450662" seo="true" mt="1541608516586" redirect="true"/>
 </manifest>
