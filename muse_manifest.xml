@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Quervainfinite.html" resolutions="1x" timestamp="1542212424031">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Quervainfinite.html" resolutions="1x" timestamp="1542215741818">
   <folder name="css">
     <file name="site_global.css" crc="4186145796"/>
     <file name="semana-2.css" crc="13790758" ref="semana-2"/>
@@ -111,7 +111,7 @@
     </file>
     <file name="infinite con letra (png).png" crc="4011096262" ref="index:semana-1:semana-4:semana-2:semana-3:semana-5:semana-6:semana-7:semana-8:semana-9:semana-10:semana-11:semana-12:semana-13">
       <caption webpage="semana-7" alt=""/>
-      <caption webpage="semana-6" alt=""/>
+      <caption webpage="semana-2" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="semana-1" alt=""/>
       <caption webpage="semana-9" alt=""/>
@@ -123,7 +123,7 @@
       <caption webpage="semana-4" alt=""/>
       <caption webpage="semana-3" alt=""/>
       <caption webpage="semana-12" alt=""/>
-      <caption webpage="semana-2" alt=""/>
+      <caption webpage="semana-6" alt=""/>
     </file>
     <file name="graficotendinitis.jpg" crc="4198968182" ref="semana-1">
       <caption webpage="semana-1" alt=""/>
@@ -390,5 +390,5 @@
   <file name="semana-10.html" crc="3944479" seo="true" mt="1542208031693" redirect="true"/>
   <file name="semana-11.html" crc="4186350774" seo="true" mt="1542208017034" redirect="true"/>
   <file name="semana-12.html" crc="3843748096" seo="true" mt="1542207989713" redirect="true"/>
-  <file name="semana-13.html" crc="7980475" seo="true" mt="1542212422397" redirect="true"/>
+  <file name="semana-13.html" crc="7980475" seo="true" mt="1542215586067" redirect="true"/>
 </manifest>
